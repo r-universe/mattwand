@@ -1,35 +1,22 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "curvHDR"]
 	path = curvHDR
 	url = https://github.com/cran/curvHDR
-	shallow = true
-	registered = true
 [submodule "densEstBayes"]
 	path = densEstBayes
 	url = https://github.com/cran/densEstBayes
-	shallow = true
-	registered = true
 [submodule "gammSlice"]
 	path = gammSlice
 	url = https://github.com/cran/gammSlice
-	shallow = true
-	registered = true
 [submodule "gamselBayes"]
 	path = gamselBayes
 	url = https://github.com/cran/gamselBayes
-	shallow = true
-	registered = true
 [submodule "glmmEP"]
 	path = glmmEP
 	url = https://github.com/cran/glmmEP
-	shallow = true
-	registered = true
 [submodule "HRW"]
 	path = HRW
 	url = https://github.com/cran/HRW
-	shallow = true
-	registered = true
