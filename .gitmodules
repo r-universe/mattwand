@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "HRW"]
+	path = HRW
+	url = https://github.com/cran/HRW
 [submodule "curvHDR"]
 	path = curvHDR
 	url = https://github.com/cran/curvHDR
@@ -17,6 +20,3 @@
 [submodule "glmmEP"]
 	path = glmmEP
 	url = https://github.com/cran/glmmEP
-[submodule "HRW"]
-	path = HRW
-	url = https://github.com/cran/HRW
